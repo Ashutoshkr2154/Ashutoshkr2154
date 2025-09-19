@@ -117,7 +117,6 @@
 
 ## 📌 Featured Projects  
 🔹 [Portfolio Website](https://ashutoshkr2154.github.io/Portfolio/)  
-🔹 [Telegram API Project (Flask + Telethon)](https://github.com/ashutoshkr2154) *(replace with actual repo link)*  
 🔹 [Data Science Projects](https://github.com/ashutoshkr2154?tab=repositories)  
 
 ---
